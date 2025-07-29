@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Languages & Technologies :</h2>
+<h1 align="left">Languages & Technologies :</h1>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Reach me at :</h2>
+<h1 align="left">Reach me at :</h1>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="left">Current Focus :</h2>
+<h1 align="left">Current Focus :</h1>
 
 ###
 
@@ -62,12 +62,6 @@
 ###
 
 <h2 align="left"></h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/omarmoashraf/omarmoashraf/output/snake.svg" alt="Snake animation" />
 
 ###
 
