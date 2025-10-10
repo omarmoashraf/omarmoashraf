@@ -1,4 +1,4 @@
-<h2 align="left">Aspiring AI Engineer | Full-stack Developer</h2>
+<h2 align="left">Aspiring AI Researcher | Full-stack Developer</h2>
 
 ###
 
