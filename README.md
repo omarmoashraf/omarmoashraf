@@ -1,8 +1,8 @@
-<h2 align="left">Aspiring Data Scientist | .Net Developer</h2>
+<h2 align="left">Backend Developer</h2>
 
 ###
 
-<p align="left">Driven by data, science, and technology — building intelligent systems that make an impact</p>
+<p align="left">Driven by performance and scalability — building efficient, high-performance backend systems that help businesses thrive.</p>
 
 ###
 
@@ -15,21 +15,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongo" height="30" alt="mongodb logo"  />
 </div>
 
 ###
@@ -42,7 +48,7 @@
   <a href="https://www.linkedin.com/in/omar-ashraf-ai/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="omarmoashraf0@gmail.com" target="_blank">
+  <a href="mailto:omarmoashraf0@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -57,7 +63,7 @@
 
 ###
 
-<p align="left">Building data-driven applications using C#, .NET Core, and React<br><br>Developing skills in data science, machine learning, and deep learning<br><br>Applying clean architecture and software engineering best practices to intelligent systems</p>
+<p align="left">Architecting scalable, efficient, and high-performance backend systems<br><br>Designing robust RESTful APIs using C# .NET Core and Express.js<br><br>Managing relational and NoSQL databases (SQL Server, PostgreSQL, MongoDB) to support business growth</p>
 
 ###
 
