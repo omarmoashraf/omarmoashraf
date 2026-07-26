@@ -8,7 +8,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left"> About Me</h3>
 
 ###
 
@@ -64,18 +64,6 @@
   <a href="mailto:omarmoashraf0@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="41" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/omarmoashraf/omarmoashraf/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=omarmoashraf&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/omarmoashraf/omarmoashraf/activity-graph-output/activity-graph.svg?theme=tokyo-night&area=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
