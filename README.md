@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Backend Developer | Open Source Enthusiast</h1>
+<h1 data-importer="text" align="left">Backend Developer | Low Level Enthusiast</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm an aspiring Backend Developer who enjoys solving problems and building reliable software.<br><br>- 🔭 I'm currently working on backend applications.<br>- 📚 I'm currently learning modern software engineering practices.<br>- ⚡ In my free time, I build personal projects and contribute to open-source.</p>
+<p data-importer="text" align="left">I'm an aspiring Backend Developer who enjoys solving problems and building reliable software.<br><br>- 🔭 I'm currently working on backend applications.<br>- 📚 I'm currently learning modern software engineering practices.<br>- ⚡ In my free time, I focus on exploring low-level programming and understanding how things work under the hood.</p>
 
 ###
 
